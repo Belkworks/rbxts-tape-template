@@ -1,0 +1,3 @@
+# ignore dist.lua
+dist.lua -linguist-detectable
+dist.lua linguist-generated
