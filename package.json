@@ -1,7 +1,7 @@
 {
   "name": "rbxts-tape-template",
   "scripts": {
-    "build": "rbxtsc && cpx \"include/**\" out/include && cpx \"node_modules/**/*.lua\" out/include/node_modules && tape out",
+    "build": "rbxtsc && cpx \"include/**\" out/include && cpx \"node_modules/**/*.lua\" out/include/node_modules -L && tape out",
     "clean": "rimraf out"
   },
   "devDependencies": {
