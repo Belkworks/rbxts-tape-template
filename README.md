@@ -7,7 +7,11 @@ This template combines [roblox-ts](https://github.com/roblox-ts/roblox-ts) with 
 
 This template was made with [pnpm](https://pnpm.io/) in mind, but you can use npm or yarn if you want.
 
-## Cloning
+## Output
+
+See [dist.lua](https://github.com/Belkworks/rbxts-tape-template/blob/master/dist.lua).
+
+## Getting Started
 
 With GitHub:
 [Click here](https://github.com/belkworks/rbxts-tape-template/generate)
