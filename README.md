@@ -9,7 +9,7 @@ This template was made with [pnpm](https://pnpm.io/) in mind, but you can use np
 
 ## Output
 
-See [dist.lua](https://github.com/Belkworks/rbxts-tape-template/blob/master/dist.lua).
+See [the wiki page](https://github.com/Belkworks/rbxts-tape-template/wiki/Example-Output).
 
 ## Getting Started
 
