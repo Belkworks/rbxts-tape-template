@@ -2,3 +2,4 @@
 /out
 /include
 dist.lua
+pnpm-lock.yaml
