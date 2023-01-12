@@ -28,6 +28,14 @@ cd my-project
 pnpm install
 ```
 
+## Watching
+
+This will watch for changes in the `src` directory and automatically build them.
+
+```sh
+pnpm watch
+```
+
 ## Building
 
 ```sh

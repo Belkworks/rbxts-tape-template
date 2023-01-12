@@ -2,7 +2,8 @@
   "name": "rbxts-tape-template",
   "scripts": {
     "build": "rbxtsc && cpx \"include/**\" out/include && cpx \"node_modules/**/*.lua\" out/include/node_modules -L && tape out",
-    "clean": "rimraf out"
+    "clean": "rimraf out",
+    "watch": "nodemon -w src -e * -x pnpm build"
   },
   "devDependencies": {
     "@rbxts/compiler-types": "2.0.4-types.1",
